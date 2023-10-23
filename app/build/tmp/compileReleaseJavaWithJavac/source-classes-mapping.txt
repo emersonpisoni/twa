@@ -1,0 +1,8 @@
+localhost_3000/twa/BuildConfig.java
+ localhost_3000.twa.BuildConfig
+localhost_3000/twa/DelegationService.java
+ localhost_3000.twa.DelegationService
+localhost_3000/twa/Application.java
+ localhost_3000.twa.Application
+localhost_3000/twa/LauncherActivity.java
+ localhost_3000.twa.LauncherActivity
