@@ -11,5 +11,5 @@ module.exports = withPWA({
   // pwa: {
 
   // },
-  // output: 'export'
+  output: 'export'
 })
