@@ -1,4 +1,4 @@
-#Mon Oct 23 11:47:34 BRT 2023
+#Tue Oct 24 15:14:16 BRT 2023
 base.0=C\:\\Users\\emers\\OneDrive\\Área de Trabalho\\projetos\\twa\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
